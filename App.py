@@ -40,9 +40,9 @@ GLOBAL_CSS = """
     --gold-soft: #f0b42920;
     --success:  #10b981;
     --danger:   #ef4444;
-    --text-primary: #e8edf5;
-    --text-secondary: #8ba3c4;
-    --text-muted: #4d6a8a;
+    --text-primary:   #ffffff;
+    --text-secondary: #cccccc;
+    --text-muted:     #888888;
     --glass: rgba(14, 30, 60, 0.7);
     --glass-border: rgba(79, 142, 247, 0.15);
     --card-shadow: 0 8px 32px rgba(5, 13, 26, 0.6), 0 0 0 1px var(--glass-border);
